@@ -82,7 +82,7 @@ module.exports = () => {
       return config
     },
     images: {
-      domains: ['applegate-paul.mo.cloudinary.net'],
+      domains: ['nextjs-tim.paulapplegate.com'],
       formats: ['image/avif', 'image/webp']
     }
   })
