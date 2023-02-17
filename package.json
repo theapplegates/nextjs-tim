@@ -11,12 +11,14 @@
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts"
   },
   "dependencies": {
+    "@docsearch/react": "^3.3.3",
     "@next/bundle-analyzer": "13.1.6",
     "@next/font": "13.1.6",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.13",
     "contentlayer": "0.3.0",
+    "docsearch-react": "^1.0.0-alpha.43",
     "esbuild": "0.17.5",
     "github-slugger": "^1.4.0",
     "gray-matter": "^4.0.2",
